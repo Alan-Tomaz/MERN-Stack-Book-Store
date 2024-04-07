@@ -27,3 +27,7 @@ In the Backend, upon receiving HTTP requests, NodeJS makes new requests to the M
 
 For database queries to work, you will need to enter your mongo database connection data in the config.js file in the path 'backend\config.js'.
 
+##
+
+Website developed based on the MERN Stack tutorial on the YouTube channel 
+**[freeCodeCamp.org](https://www.youtube.com/watch?v=-42K44A1oMA&t=674s)**.
